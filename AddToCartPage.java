@@ -41,8 +41,5 @@ public class AddToCartPage {
 		System.out.println("windowsAddToCartPage");
 	}
 	
-	@BeforeSuite
-	public void beforeSuite() {
-		System.out.println("beforeSuite");
-	}
+	
 }
